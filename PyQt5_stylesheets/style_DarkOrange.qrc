@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qss_icons">
+    <file>DarkOrange_rc/checkbox.png</file>
+    <file>DarkOrange_rc/down_arrow.png</file>
+    <file>DarkOrange_rc/handle.png</file>
+  </qresource>
+  <qresource prefix="/PyQt5_stylesheets">
+      <file>style_DarkOrange.qss</file>
+  </qresource>
+</RCC>

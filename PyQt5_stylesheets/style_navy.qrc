@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="qss_icons">
+    <file>img_rc/add-line_horizontal.png</file>
+    <file>img_rc/add-line_vertical.png</file>
+    <file>img_rc/array_down.png</file>
+    <file>img_rc/checkbox_checked.png</file>
+    <file>img_rc/checkbox_unchecked.png</file>
+    <file>img_rc/radio_normal.png</file>
+    <file>img_rc/radio_selected.png</file>
+    <file>img_rc/sub-line_horizontal.png</file>
+    <file>img_rc/sub-line_vertical.png</file>
+  </qresource>
+    <qresource prefix="PyQt5_stylesheets">
+      <file>style_navy.css</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/PyQt5_stylesheets">
+      <file>style_Classic.qss</file>
+  </qresource>
+</RCC>
