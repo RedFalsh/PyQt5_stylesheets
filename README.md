@@ -68,10 +68,10 @@ Snapshots
 
 Here are a few snapshots:
 
-![alt text](/screenshots/example1.png "example")
-![alt text](/screenshots/example2.png "example1")
-![alt text](/screenshots/example1.png "example2")
-![alt text](/screenshots/example2.png "example3")
-![alt text](/screenshots/example1.png "example4")
-![alt text](/screenshots/example2.png "example5")
+![alt text](/screenshots/example.png "example")
+![alt text](/screenshots/example1.png "example1")
+![alt text](/screenshots/example2.png "example2")
+![alt text](/screenshots/example3.png "example3")
+![alt text](/screenshots/example4.png "example4")
+![alt text](/screenshots/example5.png "example5")
 
