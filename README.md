@@ -68,5 +68,5 @@ Snapshots
 
 Here are a few snapshots:
 
-![alt text](/screenshots/PyQt5_stylesheets example 1.png "PyQt5_stylesheets example 1")
-![alt text](/screenshots/PyQt5_stylesheets example 2.png "PyQt5_stylesheets example 2")
+![alt text](/screenshots/example 1.png "example 1")
+![alt text](/screenshots/example 2.png "example 2")
