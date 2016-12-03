@@ -1,11 +1,16 @@
 PyQt5_stylesheetssheet
 ==================
+skin include:
+style_blue
+style_black
+style_Classic
+style_Dark
+style_DarkOrange
+style_gray
+style_navy
 
-[![Build Status](https://travis-ci.org/ColinDuquesnoy/PyQt5_stylesheetsSheet.png?branch=master)](https://travis-ci.org/ColinDuquesnoy/PyQt5_stylesheetsSheet)
-[![Number of PyPI downloads](https://img.shields.io/pypi/dm/PyQt5_stylesheets.svg)](https://pypi.python.org/pypi/PyQt5_stylesheets)
-[![Latest PyPI version](https://img.shields.io/pypi/v/PyQt5_stylesheets.svg)](https://pypi.python.org/pypi/PyQt5_stylesheets)
 
-A dark stylesheet for Qt applications (Qt4, Qt5, PySide, PyQt4 and PyQt5).
+these stylesheet for Qt applications (PyQt5).
 
 
 License
@@ -40,7 +45,15 @@ import PyQt5_stylesheets
 
 app.setStyleSheet(PyQt5_stylesheets.load_stylesheet_pyqt5(style="style_black"))
 
+style include these:
 
+style_blue
+style_black
+style_Classic
+style_Dark
+style_DarkOrange
+style_gray
+style_navy
 
 
 Contact information:
