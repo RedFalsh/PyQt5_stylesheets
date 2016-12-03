@@ -54,7 +54,7 @@ style_Dark
 style_DarkOrange
 style_gray
 style_navy
-
+```
 
 Contact information:
 =========================
@@ -68,5 +68,10 @@ Snapshots
 
 Here are a few snapshots:
 
-![alt text](/screenshots/example 1.png "example 1")
-![alt text](/screenshots/example 2.png "example 2")
+![alt text](/screenshots/example1.png "example")
+![alt text](/screenshots/example2.png "example1")
+![alt text](/screenshots/example1.png "example2")
+![alt text](/screenshots/example2.png "example3")
+![alt text](/screenshots/example1.png "example4")
+![alt text](/screenshots/example2.png "example5")
+
