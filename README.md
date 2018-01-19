@@ -42,19 +42,29 @@ Usage
 ```Python
 
 import PyQt5_stylesheets
-
 app.setStyleSheet(PyQt5_stylesheets.load_stylesheet_pyqt5(style="style_black"))
-
-style include these:
-
-style_blue
-style_black
-style_Classic
-style_Dark
-style_DarkOrange
-style_gray
-style_navy
 ```
+```Python
+
+import PyQt5_stylesheets
+class yourDialog(QDialog):
+    def __init__(self,parent=None):
+      supper(QDialog,self).__init__(parent):
+      self.setStyleSheet(PyQt5_stylesheets.load_stylesheet_pyqt5(style="style_black"))
+      ...
+      ...
+```
+
+style Include
+============
+`style_blue`
+`style_black`
+`style_Classic`
+`style_Dark`
+`style_DarkOrange`
+`style_gray`
+`style_navy`
+
 
 Contact information:
 =========================
